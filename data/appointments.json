@@ -1,0 +1,19 @@
+[
+  {
+    "id": "apt-1",
+    "patientId": "pat-1",
+    "patientName": "ahmed",
+    "patientCode": "PAT-00001",
+    "date": "2026-10-08",
+    "time": "09:00 AM",
+    "room": "dental",
+    "doctor": "Dr. Demo",
+    "visitType": "Examination",
+    "priority": "Normal",
+    "note": "Initial molar dental checkup",
+    "visitFee": 150,
+    "paidAmount": 150,
+    "status": "Booked",
+    "createdAt": "2026-10-06T17:15:00Z"
+  }
+]

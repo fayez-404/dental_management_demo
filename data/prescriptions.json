@@ -1,0 +1,24 @@
+[
+  {
+    "id": "rx-1",
+    "patientId": "pat-1",
+    "patientName": "ahmed",
+    "doctorName": "Dr. Demo",
+    "date": "06 Oct 2026",
+    "diagnosis": "Mild gingivitis",
+    "medications": [
+      {
+        "name": "Amoxicillin 500mg",
+        "dosage": "1 capsule",
+        "frequency": "Every 8 hours",
+        "duration": "5 days"
+      },
+      {
+        "name": "Chlorhexidine Mouthwash 0.12%",
+        "dosage": "15 ml rinse",
+        "frequency": "Twice daily",
+        "duration": "7 days"
+      }
+    ]
+  }
+]

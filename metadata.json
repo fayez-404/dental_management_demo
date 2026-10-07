@@ -1,0 +1,6 @@
+{
+  "name": "Clinical Care - Medical Practice Management",
+  "description": "Comprehensive clinic management and EHR system featuring today's patients triage, patient records, manual and advance appointment scheduling, and clinical workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

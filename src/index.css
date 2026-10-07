@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .bg-striped-pattern {
+    background-color: #f8fafc;
+    background-image: repeating-linear-gradient(
+      45deg,
+      #f1f5f9,
+      #f1f5f9 10px,
+      #f8fafc 10px,
+      #f8fafc 20px
+    );
+  }
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pat-1",
+    "patientCode": "PAT-00001",
+    "name": "ahmed",
+    "barcode": "6688943008245",
+    "gender": "Male",
+    "dob": "2014-12-06",
+    "ageYears": 11,
+    "ageMonths": 10,
+    "ageDays": 1,
+    "phone": "01657652131",
+    "email": "ahmed@example.com",
+    "nationalId": "29910070123456",
+    "assignedDoctor": "Dr. Demo",
+    "country": "Egypt",
+    "address": "Tanta Street",
+    "notes": "Routine dental checkup, good general health.",
+    "prescriptionsCount": 1,
+    "lastContactDate": "06 Oct 2026",
+    "lastContactTime": "05:12 PM",
+    "addedBy": "dr demo",
+    "addedByInitials": "DD",
+    "status": "Active",
+    "createdAt": "2026-10-06T17:12:00Z"
+  }
+]
